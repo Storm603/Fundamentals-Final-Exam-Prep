@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.exe
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.deps.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.dll
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\bin\Debug\netcoreapp3.1\T02. Destination Mapper.pdb
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.dll
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.pdb
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T02. Destination Mapper\obj\Debug\netcoreapp3.1\T02. Destination Mapper.genruntimeconfig.cache

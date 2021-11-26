@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.exe
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.deps.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.dll
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\bin\Debug\netcoreapp3.1\T03. Need for Speed III.pdb
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.dll
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.pdb
+C:\Users\Kristiyan\source\repos\Exam Prep1 Fundamentals2\T03. Need for Speed III\obj\Debug\netcoreapp3.1\T03. Need for Speed III.genruntimeconfig.cache
