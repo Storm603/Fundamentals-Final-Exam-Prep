@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Т03. Plant Discovery/1.0.0": {
+        "runtime": {
+          "Т03. Plant Discovery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Т03. Plant Discovery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

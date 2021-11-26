@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.exe
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.deps.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.dll
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\bin\Debug\netcoreapp3.1\Т03. Plant Discovery.pdb
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.dll
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.pdb
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т03. Plant Discovery\obj\Debug\netcoreapp3.1\Т03. Plant Discovery.genruntimeconfig.cache
