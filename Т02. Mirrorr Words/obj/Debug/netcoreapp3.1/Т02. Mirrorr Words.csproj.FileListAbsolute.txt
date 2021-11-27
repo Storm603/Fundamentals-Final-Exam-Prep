@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.exe
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.deps.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.dll
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\bin\Debug\netcoreapp3.1\Т02. Mirrorr Words.pdb
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.dll
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.pdb
+C:\Users\Kristiyan\source\repos\Fundamental Exam Prep 02\Т02. Mirrorr Words\obj\Debug\netcoreapp3.1\Т02. Mirrorr Words.genruntimeconfig.cache

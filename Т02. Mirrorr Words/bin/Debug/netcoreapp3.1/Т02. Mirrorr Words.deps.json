@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Т02. Mirrorr Words/1.0.0": {
+        "runtime": {
+          "Т02. Mirrorr Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Т02. Mirrorr Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
