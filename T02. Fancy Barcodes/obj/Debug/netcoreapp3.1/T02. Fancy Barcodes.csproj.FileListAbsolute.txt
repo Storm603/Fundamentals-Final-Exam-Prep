@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.exe
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.deps.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.dll
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\bin\Debug\netcoreapp3.1\T02. Fancy Barcodes.pdb
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.dll
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.pdb
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Fancy Barcodes\obj\Debug\netcoreapp3.1\T02. Fancy Barcodes.genruntimeconfig.cache
