@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.exe
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.deps.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.dll
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\bin\Debug\netcoreapp3.1\T02. Emoji Detector.pdb
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.dll
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.pdb
+C:\Users\Kristiyan\source\repos\Fundamentals Final Exam Prep 3\T02. Emoji Detector\obj\Debug\netcoreapp3.1\T02. Emoji Detector.genruntimeconfig.cache
